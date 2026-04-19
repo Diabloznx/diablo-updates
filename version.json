@@ -1,5 +1,5 @@
 {
   "version": "1.4",
-  "url": "https://github.com/Diabloznx/diablo-updates/releases/download/v1.4/DiabloInstalador_v1.4.exe",
+  "url": "https://github.com/Diabloznx/diablo-updates/blob/main/DiabloInstalador_v1.4.exe?raw=true",
   "changelog": "v1.4 — 5 novos scripts (AMD iGPU, WU desligado, DNS flush, Hibernação off, Boost BlueStacks processo), gestor de processos com kill, GPU e uptime no painel de sistema."
 }
